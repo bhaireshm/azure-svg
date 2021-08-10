@@ -1,0 +1,313 @@
+<ctrGbrComponents description="AI + Machine Learning-Cognitive Services-Asset" id="CP-10553" infraType="AI + Machine Learning" name="Cognitive_Services" version="0.0.1"/> 
+<ctrGbrComponents description="AI + Machine Learning-Bot Services-Asset" id="CP-10554" infraType="AI + Machine Learning" name="Bot_Services" version="0.0.1"/> 
+<ctrGbrComponents description="Analytics-Log Analytics Workspaces-Asset" id="CP-10555" infraType="Analytics" name="Log_Analytics_Workspaces" version="0.0.1"/> 
+<ctrGbrComponents description="Analytics-Event Hubs-Asset" id="CP-10556" infraType="Analytics" name="Event_Hubs" version="0.0.1"/> 
+<ctrGbrComponents description="Analytics-Stream Analytics Jobs-Asset" id="CP-10557" infraType="Analytics" name="Stream_Analytics_Jobs" version="0.0.1"/> 
+<ctrGbrComponents description="Analytics-Azure Synapse Analytics-Asset" id="CP-10558" infraType="Analytics" name="Azure_Synapse_Analytics" version="0.0.1"/> 
+<ctrGbrComponents description="Analytics-Hd Insight Clusters-Asset" id="CP-10559" infraType="Analytics" name="Hd_Insight_Clusters" version="0.0.1"/> 
+<ctrGbrComponents description="Analytics-Analysis Services-Asset" id="CP-10560" infraType="Analytics" name="Analysis_Services" version="0.0.1"/> 
+<ctrGbrComponents description="Analytics-Event Hub Clusters-Asset" id="CP-10561" infraType="Analytics" name="Event_Hub_Clusters" version="0.0.1"/> 
+<ctrGbrComponents description="Analytics-Data Lake Store Gen1-Asset" id="CP-10562" infraType="Analytics" name="Data_Lake_Store_Gen1" version="0.0.1"/> 
+<ctrGbrComponents description="App Services-App Service Plans-Asset" id="CP-10563" infraType="App Services" name="App_Service_Plans" version="0.0.1"/> 
+<ctrGbrComponents description="App Services-App Service Certificates-Asset" id="CP-10564" infraType="App Services" name="App_Service_Certificates" version="0.0.1"/> 
+<ctrGbrComponents description="App Services-App Service Domains-Asset" id="CP-10565" infraType="App Services" name="App_Service_Domains" version="0.0.1"/> 
+<ctrGbrComponents description="App Services-Cdn Profiles-Asset" id="CP-10566" infraType="App Services" name="Cdn_Profiles" version="0.0.1"/> 
+<ctrGbrComponents description="App Services-App Services-Asset" id="CP-10567" infraType="App Services" name="App_Services" version="0.0.1"/> 
+<ctrGbrComponents description="App Services-Api Management Services-Asset" id="CP-10568" infraType="App Services" name="Api_Management_Services" version="0.0.1"/> 
+<ctrGbrComponents description="App Services-Search Services-Asset" id="CP-10569" infraType="App Services" name="Search_Services" version="0.0.1"/> 
+<ctrGbrComponents description="App Services-Notification Hubs-Asset" id="CP-10570" infraType="App Services" name="Notification_Hubs" version="0.0.1"/> 
+<ctrGbrComponents description="App Services-App Service Environments-Asset" id="CP-10571" infraType="App Services" name="App_Service_Environments" version="0.0.1"/> 
+<ctrGbrComponents description="Azure Stack-Multi Tenancy-Asset" id="CP-10572" infraType="Azure Stack" name="Multi_Tenancy" version="0.0.1"/> 
+<ctrGbrComponents description="Azure Stack-Infrastructure Backup-Asset" id="CP-10573" infraType="Azure Stack" name="Infrastructure_Backup" version="0.0.1"/> 
+<ctrGbrComponents description="Azure Stack-Capacity-Asset" id="CP-10574" infraType="Azure Stack" name="Capacity" version="0.0.1"/> 
+<ctrGbrComponents description="Azure Stack-Offers-Asset" id="CP-10575" infraType="Azure Stack" name="Offers" version="0.0.1"/> 
+<ctrGbrComponents description="Azure Stack-User Subscriptions-Asset" id="CP-10576" infraType="Azure Stack" name="User_Subscriptions" version="0.0.1"/> 
+<ctrGbrComponents description="Azure Stack-Plans-Asset" id="CP-10577" infraType="Azure Stack" name="Plans" version="0.0.1"/> 
+<ctrGbrComponents description="Azure Stack-Azure Stack-Asset" id="CP-10578" infraType="Azure Stack" name="Azure_Stack" version="0.0.1"/> 
+<ctrGbrComponents description="Azure Stack-Updates-Asset" id="CP-10579" infraType="Azure Stack" name="Updates" version="0.0.1"/> 
+<ctrGbrComponents description="Azure VMware Solution-Avs-Asset" id="CP-10580" infraType="Azure VMware Solution" name="Avs" version="0.0.1"/> 
+<ctrGbrComponents description="Blockchain-Outbound Connection-Asset" id="CP-10581" infraType="Blockchain" name="Outbound_Connection" version="0.0.1"/> 
+<ctrGbrComponents description="Blockchain-Azure Blockchain Service-Asset" id="CP-10582" infraType="Blockchain" name="Azure_Blockchain_Service" version="0.0.1"/> 
+<ctrGbrComponents description="Blockchain-Azure Token Service-Asset" id="CP-10583" infraType="Blockchain" name="Azure_Token_Service" version="0.0.1"/> 
+<ctrGbrComponents description="Blockchain-Abs Member-Asset" id="CP-10584" infraType="Blockchain" name="Abs_Member" version="0.0.1"/> 
+<ctrGbrComponents description="Blockchain-Consortium-Asset" id="CP-10585" infraType="Blockchain" name="Consortium" version="0.0.1"/> 
+<ctrGbrComponents description="Compute-Disk Encryption Sets-Asset" id="CP-10586" infraType="Compute" name="Disk_Encryption_Sets" version="0.0.1"/> 
+<ctrGbrComponents description="Compute-Workspaces-Asset" id="CP-10587" infraType="Compute" name="Workspaces" version="0.0.1"/> 
+<ctrGbrComponents description="Compute-Virtual Machine-Asset" id="CP-10588" infraType="Compute" name="Virtual_Machine" version="0.0.1"/> 
+<ctrGbrComponents description="Compute-Kubernetes Services-Asset" id="CP-10589" infraType="Compute" name="Kubernetes_Services" version="0.0.1"/> 
+<ctrGbrComponents description="Compute-Mesh Applications-Asset" id="CP-10590" infraType="Compute" name="Mesh_Applications" version="0.0.1"/> 
+<ctrGbrComponents description="Compute-Availability Sets-Asset" id="CP-10591" infraType="Compute" name="Availability_Sets" version="0.0.1"/> 
+<ctrGbrComponents description="Compute-Disks Snapshots-Asset" id="CP-10592" infraType="Compute" name="Disks_Snapshots" version="0.0.1"/> 
+<ctrGbrComponents description="Compute-Os Images (classic)-Asset" id="CP-10593" infraType="Compute" name="Os_Images_(classic)" version="0.0.1"/> 
+<ctrGbrComponents description="Compute-Virtual Machines (classic)-Asset" id="CP-10594" infraType="Compute" name="Virtual_Machines_(classic)" version="0.0.1"/> 
+<ctrGbrComponents description="Compute-Function Apps-Asset" id="CP-10595" infraType="Compute" name="Function_Apps" version="0.0.1"/> 
+<ctrGbrComponents description="Compute-Cloud Services (classic)-Asset" id="CP-10596" infraType="Compute" name="Cloud_Services_(classic)" version="0.0.1"/> 
+<ctrGbrComponents description="Compute-Batch Accounts-Asset" id="CP-10597" infraType="Compute" name="Batch_Accounts" version="0.0.1"/> 
+<ctrGbrComponents description="Compute-Disks-Asset" id="CP-10598" infraType="Compute" name="Disks" version="0.0.1"/> 
+<ctrGbrComponents description="Compute-Images-Asset" id="CP-10599" infraType="Compute" name="Images" version="0.0.1"/> 
+<ctrGbrComponents description="Compute-Vm Scale Sets-Asset" id="CP-10600" infraType="Compute" name="Vm_Scale_Sets" version="0.0.1"/> 
+<ctrGbrComponents description="Compute-App Services-Asset" id="CP-10601" infraType="Compute" name="App_Services" version="0.0.1"/> 
+<ctrGbrComponents description="Compute-Service Fabric Clusters-Asset" id="CP-10602" infraType="Compute" name="Service_Fabric_Clusters" version="0.0.1"/> 
+<ctrGbrComponents description="Compute-Image Definitions-Asset" id="CP-10603" infraType="Compute" name="Image_Definitions" version="0.0.1"/> 
+<ctrGbrComponents description="Compute-Image Versions-Asset" id="CP-10604" infraType="Compute" name="Image_Versions" version="0.0.1"/> 
+<ctrGbrComponents description="Compute-Shared Image Galleries-Asset" id="CP-10605" infraType="Compute" name="Shared_Image_Galleries" version="0.0.1"/> 
+<ctrGbrComponents description="Compute-Vm Images (classic)-Asset" id="CP-10606" infraType="Compute" name="Vm_Images_(classic)" version="0.0.1"/> 
+<ctrGbrComponents description="Compute-Disks (classic)-Asset" id="CP-10607" infraType="Compute" name="Disks_(classic)" version="0.0.1"/> 
+<ctrGbrComponents description="Compute-Container Services (deprecated)-Asset" id="CP-10608" infraType="Compute" name="Container_Services_(deprecated)" version="0.0.1"/> 
+<ctrGbrComponents description="Compute-Container Instances-Asset" id="CP-10609" infraType="Compute" name="Container_Instances" version="0.0.1"/> 
+<ctrGbrComponents description="Containers-Kubernetes Services-Asset" id="CP-10610" infraType="Containers" name="Kubernetes_Services" version="0.0.1"/> 
+<ctrGbrComponents description="Containers-Batch Accounts-Asset" id="CP-10611" infraType="Containers" name="Batch_Accounts" version="0.0.1"/> 
+<ctrGbrComponents description="Containers-App Services-Asset" id="CP-10612" infraType="Containers" name="App_Services" version="0.0.1"/> 
+<ctrGbrComponents description="Containers-Service Fabric Clusters-Asset" id="CP-10613" infraType="Containers" name="Service_Fabric_Clusters" version="0.0.1"/> 
+<ctrGbrComponents description="Containers-Container Instances-Asset" id="CP-10614" infraType="Containers" name="Container_Instances" version="0.0.1"/> 
+<ctrGbrComponents description="Containers-Container Registries-Asset" id="CP-10615" infraType="Containers" name="Container_Registries" version="0.0.1"/> 
+<ctrGbrComponents description="Databases-Sql Data Warehouses-Asset" id="CP-10616" infraType="Databases" name="Sql_Data_Warehouses" version="0.0.1"/> 
+<ctrGbrComponents description="Databases-Azure Synapse Analytics-Asset" id="CP-10617" infraType="Databases" name="Azure_Synapse_Analytics" version="0.0.1"/> 
+<ctrGbrComponents description="Databases-Azure Sql-Asset" id="CP-10618" infraType="Databases" name="Azure_Sql" version="0.0.1"/> 
+<ctrGbrComponents description="Databases-Ssis Lift And Shift Ir-Asset" id="CP-10619" infraType="Databases" name="Ssis_Lift_And_Shift_Ir" version="0.0.1"/> 
+<ctrGbrComponents description="Databases-Azure Cosmos Db-Asset" id="CP-10620" infraType="Databases" name="Azure_Cosmos_Db" version="0.0.1"/> 
+<ctrGbrComponents description="Databases-Azure Database Mysql Server-Asset" id="CP-10621" infraType="Databases" name="Azure_Database_Mysql_Server" version="0.0.1"/> 
+<ctrGbrComponents description="Databases-Azure Database Mariadb Server-Asset" id="CP-10622" infraType="Databases" name="Azure_Database_Mariadb_Server" version="0.0.1"/> 
+<ctrGbrComponents description="Databases-Azure Sql Vm-Asset" id="CP-10623" infraType="Databases" name="Azure_Sql_Vm" version="0.0.1"/> 
+<ctrGbrComponents description="Databases-Data Factory-Asset" id="CP-10624" infraType="Databases" name="Data_Factory" version="0.0.1"/> 
+<ctrGbrComponents description="Databases-Virtual Clusters-Asset" id="CP-10625" infraType="Databases" name="Virtual_Clusters" version="0.0.1"/> 
+<ctrGbrComponents description="Databases-Elastic Job Agents-Asset" id="CP-10626" infraType="Databases" name="Elastic_Job_Agents" version="0.0.1"/> 
+<ctrGbrComponents description="Databases-Sql Database-Asset" id="CP-10627" infraType="Databases" name="Sql_Database" version="0.0.1"/> 
+<ctrGbrComponents description="Databases-Azure Database Postgresql Server-Asset" id="CP-10628" infraType="Databases" name="Azure_Database_Postgresql_Server" version="0.0.1"/> 
+<ctrGbrComponents description="Databases-Sql Server-Asset" id="CP-10629" infraType="Databases" name="Sql_Server" version="0.0.1"/> 
+<ctrGbrComponents description="Databases-Azure Database Migration Services-Asset" id="CP-10630" infraType="Databases" name="Azure_Database_Migration_Services" version="0.0.1"/> 
+<ctrGbrComponents description="Databases-Sql Elastic Pools-Asset" id="CP-10631" infraType="Databases" name="Sql_Elastic_Pools" version="0.0.1"/> 
+<ctrGbrComponents description="Databases-Managed Database-Asset" id="CP-10632" infraType="Databases" name="Managed_Database" version="0.0.1"/> 
+<ctrGbrComponents description="Databases-Sql Managed Instance-Asset" id="CP-10633" infraType="Databases" name="Sql_Managed_Instance" version="0.0.1"/> 
+<ctrGbrComponents description="Databases-Azure Sql Server Stretch Databases-Asset" id="CP-10634" infraType="Databases" name="Azure_Sql_Server_Stretch_Databases" version="0.0.1"/> 
+<ctrGbrComponents description="Databases-Cache Redis-Asset" id="CP-10635" infraType="Databases" name="Cache_Redis" version="0.0.1"/> 
+<ctrGbrComponents description="Databases-Instance Pools-Asset" id="CP-10636" infraType="Databases" name="Instance_Pools" version="0.0.1"/> 
+<ctrGbrComponents description="Databases-Azure Data Explorer Clusters-Asset" id="CP-10637" infraType="Databases" name="Azure_Data_Explorer_Clusters" version="0.0.1"/> 
+<ctrGbrComponents description="DevOps-Application Insights-Asset" id="CP-10638" infraType="DevOps" name="Application_Insights" version="0.0.1"/> 
+<ctrGbrComponents description="DevOps-Azure Devops-Asset" id="CP-10639" infraType="DevOps" name="Azure_Devops" version="0.0.1"/> 
+<ctrGbrComponents description="DevOps-Devtest Labs-Asset" id="CP-10640" infraType="DevOps" name="Devtest_Labs" version="0.0.1"/> 
+<ctrGbrComponents description="DevOps-Lab Services-Asset" id="CP-10641" infraType="DevOps" name="Lab_Services" version="0.0.1"/> 
+<ctrGbrComponents description="General-All Resources-Asset" id="CP-10642" infraType="General" name="All_Resources" version="0.0.1"/> 
+<ctrGbrComponents description="General-Subscriptions-Asset" id="CP-10643" infraType="General" name="Subscriptions" version="0.0.1"/> 
+<ctrGbrComponents description="General-Reservations-Asset" id="CP-10644" infraType="General" name="Reservations" version="0.0.1"/> 
+<ctrGbrComponents description="General-Service Health-Asset" id="CP-10645" infraType="General" name="Service_Health" version="0.0.1"/> 
+<ctrGbrComponents description="General-Information-Asset" id="CP-10646" infraType="General" name="Information" version="0.0.1"/> 
+<ctrGbrComponents description="General-Recent-Asset" id="CP-10647" infraType="General" name="Recent" version="0.0.1"/> 
+<ctrGbrComponents description="General-Resource Groups-Asset" id="CP-10648" infraType="General" name="Resource_Groups" version="0.0.1"/> 
+<ctrGbrComponents description="General-Marketplace-Asset" id="CP-10649" infraType="General" name="Marketplace" version="0.0.1"/> 
+<ctrGbrComponents description="General-Quickstart Center-Asset" id="CP-10650" infraType="General" name="Quickstart_Center" version="0.0.1"/> 
+<ctrGbrComponents description="General-Management Groups-Asset" id="CP-10651" infraType="General" name="Management_Groups" version="0.0.1"/> 
+<ctrGbrComponents description="General-Help And Support-Asset" id="CP-10652" infraType="General" name="Help_And_Support" version="0.0.1"/> 
+<ctrGbrComponents description="General-Dashboard-Asset" id="CP-10653" infraType="General" name="Dashboard" version="0.0.1"/> 
+<ctrGbrComponents description="General-Cost Management-Asset" id="CP-10654" infraType="General" name="Cost_Management" version="0.0.1"/> 
+<ctrGbrComponents description="General-Biz Talk-Asset" id="CP-10655" infraType="General" name="Biz_Talk" version="0.0.1"/> 
+<ctrGbrComponents description="General-Blob Block-Asset" id="CP-10656" infraType="General" name="Blob_Block" version="0.0.1"/> 
+<ctrGbrComponents description="General-Blob Page-Asset" id="CP-10657" infraType="General" name="Blob_Page" version="0.0.1"/> 
+<ctrGbrComponents description="General-Branch-Asset" id="CP-10658" infraType="General" name="Branch" version="0.0.1"/> 
+<ctrGbrComponents description="General-Browser-Asset" id="CP-10659" infraType="General" name="Browser" version="0.0.1"/> 
+<ctrGbrComponents description="General-Bug-Asset" id="CP-10660" infraType="General" name="Bug" version="0.0.1"/> 
+<ctrGbrComponents description="General-Builds-Asset" id="CP-10661" infraType="General" name="Builds" version="0.0.1"/> 
+<ctrGbrComponents description="General-Cache-Asset" id="CP-10662" infraType="General" name="Cache" version="0.0.1"/> 
+<ctrGbrComponents description="General-Code-Asset" id="CP-10663" infraType="General" name="Code" version="0.0.1"/> 
+<ctrGbrComponents description="General-Commit-Asset" id="CP-10664" infraType="General" name="Commit" version="0.0.1"/> 
+<ctrGbrComponents description="General-Controls-Asset" id="CP-10665" infraType="General" name="Controls" version="0.0.1"/> 
+<ctrGbrComponents description="General-Controls Horizontal-Asset" id="CP-10666" infraType="General" name="Controls_Horizontal" version="0.0.1"/> 
+<ctrGbrComponents description="General-Cost Alerts-Asset" id="CP-10667" infraType="General" name="Cost_Alerts" version="0.0.1"/> 
+<ctrGbrComponents description="General-Cost Analysis-Asset" id="CP-10668" infraType="General" name="Cost_Analysis" version="0.0.1"/> 
+<ctrGbrComponents description="General-Cost Budgets-Asset" id="CP-10669" infraType="General" name="Cost_Budgets" version="0.0.1"/> 
+<ctrGbrComponents description="General-Counter-Asset" id="CP-10670" infraType="General" name="Counter" version="0.0.1"/> 
+<ctrGbrComponents description="General-Cubes-Asset" id="CP-10671" infraType="General" name="Cubes" version="0.0.1"/> 
+<ctrGbrComponents description="General-Dev Console-Asset" id="CP-10672" infraType="General" name="Dev_Console" version="0.0.1"/> 
+<ctrGbrComponents description="General-Download-Asset" id="CP-10673" infraType="General" name="Download" version="0.0.1"/> 
+<ctrGbrComponents description="General-Error-Asset" id="CP-10674" infraType="General" name="Error" version="0.0.1"/> 
+<ctrGbrComponents description="General-Extensions-Asset" id="CP-10675" infraType="General" name="Extensions" version="0.0.1"/> 
+<ctrGbrComponents description="General-File-Asset" id="CP-10676" infraType="General" name="File" version="0.0.1"/> 
+<ctrGbrComponents description="General-Files-Asset" id="CP-10677" infraType="General" name="Files" version="0.0.1"/> 
+<ctrGbrComponents description="General-Folder Blank-Asset" id="CP-10678" infraType="General" name="Folder_Blank" version="0.0.1"/> 
+<ctrGbrComponents description="General-Folder Website-Asset" id="CP-10679" infraType="General" name="Folder_Website" version="0.0.1"/> 
+<ctrGbrComponents description="General-Ftp-Asset" id="CP-10680" infraType="General" name="Ftp" version="0.0.1"/> 
+<ctrGbrComponents description="General-Gear-Asset" id="CP-10681" infraType="General" name="Gear" version="0.0.1"/> 
+<ctrGbrComponents description="General-Globe-Asset" id="CP-10682" infraType="General" name="Globe" version="0.0.1"/> 
+<ctrGbrComponents description="General-Globe Error-Asset" id="CP-10683" infraType="General" name="Globe_Error" version="0.0.1"/> 
+<ctrGbrComponents description="General-Globe Success-Asset" id="CP-10684" infraType="General" name="Globe_Success" version="0.0.1"/> 
+<ctrGbrComponents description="General-Globe Warning-Asset" id="CP-10685" infraType="General" name="Globe_Warning" version="0.0.1"/> 
+<ctrGbrComponents description="General-Guide-Asset" id="CP-10686" infraType="General" name="Guide" version="0.0.1"/> 
+<ctrGbrComponents description="General-Heart-Asset" id="CP-10687" infraType="General" name="Heart" version="0.0.1"/> 
+<ctrGbrComponents description="General-Image-Asset" id="CP-10688" infraType="General" name="Image" version="0.0.1"/> 
+<ctrGbrComponents description="General-Input Output-Asset" id="CP-10689" infraType="General" name="Input_Output" version="0.0.1"/> 
+<ctrGbrComponents description="General-Journey Hub-Asset" id="CP-10690" infraType="General" name="Journey_Hub" version="0.0.1"/> 
+<ctrGbrComponents description="General-Launch Portal-Asset" id="CP-10691" infraType="General" name="Launch_Portal" version="0.0.1"/> 
+<ctrGbrComponents description="General-Learn-Asset" id="CP-10692" infraType="General" name="Learn" version="0.0.1"/> 
+<ctrGbrComponents description="General-Load Test-Asset" id="CP-10693" infraType="General" name="Load_Test" version="0.0.1"/> 
+<ctrGbrComponents description="General-Location-Asset" id="CP-10694" infraType="General" name="Location" version="0.0.1"/> 
+<ctrGbrComponents description="General-Log Streaming-Asset" id="CP-10695" infraType="General" name="Log_Streaming" version="0.0.1"/> 
+<ctrGbrComponents description="General-Management Portal-Asset" id="CP-10696" infraType="General" name="Management_Portal" version="0.0.1"/> 
+<ctrGbrComponents description="General-Media File-Asset" id="CP-10697" infraType="General" name="Media_File" version="0.0.1"/> 
+<ctrGbrComponents description="General-Mobile-Asset" id="CP-10698" infraType="General" name="Mobile" version="0.0.1"/> 
+<ctrGbrComponents description="General-Mobile Engagement-Asset" id="CP-10699" infraType="General" name="Mobile_Engagement" version="0.0.1"/> 
+<ctrGbrComponents description="General-Power-Asset" id="CP-10700" infraType="General" name="Power" version="0.0.1"/> 
+<ctrGbrComponents description="General-Powershell-Asset" id="CP-10701" infraType="General" name="Powershell" version="0.0.1"/> 
+<ctrGbrComponents description="General-Power Up-Asset" id="CP-10702" infraType="General" name="Power_Up" version="0.0.1"/> 
+<ctrGbrComponents description="General-Preview-Asset" id="CP-10703" infraType="General" name="Preview" version="0.0.1"/> 
+<ctrGbrComponents description="General-Process Explorer-Asset" id="CP-10704" infraType="General" name="Process_Explorer" version="0.0.1"/> 
+<ctrGbrComponents description="General-Production Ready Database-Asset" id="CP-10705" infraType="General" name="Production_Ready_Database" version="0.0.1"/> 
+<ctrGbrComponents description="General-Resource Group List-Asset" id="CP-10706" infraType="General" name="Resource_Group_List" version="0.0.1"/> 
+<ctrGbrComponents description="General-Resource Linked-Asset" id="CP-10707" infraType="General" name="Resource_Linked" version="0.0.1"/> 
+<ctrGbrComponents description="General-Scale-Asset" id="CP-10708" infraType="General" name="Scale" version="0.0.1"/> 
+<ctrGbrComponents description="General-Scheduler-Asset" id="CP-10709" infraType="General" name="Scheduler" version="0.0.1"/> 
+<ctrGbrComponents description="General-Search-Asset" id="CP-10710" infraType="General" name="Search" version="0.0.1"/> 
+<ctrGbrComponents description="General-Server Farm-Asset" id="CP-10711" infraType="General" name="Server_Farm" version="0.0.1"/> 
+<ctrGbrComponents description="General-Service Bus-Asset" id="CP-10712" infraType="General" name="Service_Bus" version="0.0.1"/> 
+<ctrGbrComponents description="General-Ssd-Asset" id="CP-10713" infraType="General" name="Ssd" version="0.0.1"/> 
+<ctrGbrComponents description="General-Storage Azure Files-Asset" id="CP-10714" infraType="General" name="Storage_Azure_Files" version="0.0.1"/> 
+<ctrGbrComponents description="General-Storage Container-Asset" id="CP-10715" infraType="General" name="Storage_Container" version="0.0.1"/> 
+<ctrGbrComponents description="General-Storage Queue-Asset" id="CP-10716" infraType="General" name="Storage_Queue" version="0.0.1"/> 
+<ctrGbrComponents description="General-Table-Asset" id="CP-10717" infraType="General" name="Table" version="0.0.1"/> 
+<ctrGbrComponents description="General-Tags-Asset" id="CP-10718" infraType="General" name="Tags" version="0.0.1"/> 
+<ctrGbrComponents description="General-Tfs Vc Repository-Asset" id="CP-10719" infraType="General" name="Tfs_Vc_Repository" version="0.0.1"/> 
+<ctrGbrComponents description="General-Toolbox-Asset" id="CP-10720" infraType="General" name="Toolbox" version="0.0.1"/> 
+<ctrGbrComponents description="General-Versions-Asset" id="CP-10721" infraType="General" name="Versions" version="0.0.1"/> 
+<ctrGbrComponents description="General-Website Power-Asset" id="CP-10722" infraType="General" name="Website_Power" version="0.0.1"/> 
+<ctrGbrComponents description="General-Website Staging-Asset" id="CP-10723" infraType="General" name="Website_Staging" version="0.0.1"/> 
+<ctrGbrComponents description="General-Web Slots-Asset" id="CP-10724" infraType="General" name="Web_Slots" version="0.0.1"/> 
+<ctrGbrComponents description="General-Web Test-Asset" id="CP-10725" infraType="General" name="Web_Test" version="0.0.1"/> 
+<ctrGbrComponents description="General-Workbooks-Asset" id="CP-10726" infraType="General" name="Workbooks" version="0.0.1"/> 
+<ctrGbrComponents description="General-Workflow-Asset" id="CP-10727" infraType="General" name="Workflow" version="0.0.1"/> 
+<ctrGbrComponents description="General-Backlog-Asset" id="CP-10728" infraType="General" name="Backlog" version="0.0.1"/> 
+<ctrGbrComponents description="General-Media-Asset" id="CP-10729" infraType="General" name="Media" version="0.0.1"/> 
+<ctrGbrComponents description="General-Module-Asset" id="CP-10730" infraType="General" name="Module" version="0.0.1"/> 
+<ctrGbrComponents description="General-Search Grid-Asset" id="CP-10731" infraType="General" name="Search_Grid" version="0.0.1"/> 
+<ctrGbrComponents description="Identity-Azure Active Directory-Asset" id="CP-10732" infraType="Identity" name="Azure_Active_Directory" version="0.0.1"/> 
+<ctrGbrComponents description="Identity-Azure Ad Domain Services-Asset" id="CP-10733" infraType="Identity" name="Azure_Ad_Domain_Services" version="0.0.1"/> 
+<ctrGbrComponents description="Identity-Groups-Asset" id="CP-10734" infraType="Identity" name="Groups" version="0.0.1"/> 
+<ctrGbrComponents description="Identity-Active Directory Connect Health-Asset" id="CP-10735" infraType="Identity" name="Active_Directory_Connect_Health" version="0.0.1"/> 
+<ctrGbrComponents description="Identity-Enterprise Applications-Asset" id="CP-10736" infraType="Identity" name="Enterprise_Applications" version="0.0.1"/> 
+<ctrGbrComponents description="Identity-Azure Ad B2c-Asset" id="CP-10737" infraType="Identity" name="Azure_Ad_B2c" version="0.0.1"/> 
+<ctrGbrComponents description="Identity-Users-Asset" id="CP-10738" infraType="Identity" name="Users" version="0.0.1"/> 
+<ctrGbrComponents description="Identity-App Registrations-Asset" id="CP-10739" infraType="Identity" name="App_Registrations" version="0.0.1"/> 
+<ctrGbrComponents description="Identity-Identity Governance-Asset" id="CP-10740" infraType="Identity" name="Identity_Governance" version="0.0.1"/> 
+<ctrGbrComponents description="Integration-Sql Data Warehouses-Asset" id="CP-10741" infraType="Integration" name="Sql_Data_Warehouses" version="0.0.1"/> 
+<ctrGbrComponents description="Integration-Api Management Services-Asset" id="CP-10742" infraType="Integration" name="Api_Management_Services" version="0.0.1"/> 
+<ctrGbrComponents description="Integration-Logic Apps-Asset" id="CP-10743" infraType="Integration" name="Logic_Apps" version="0.0.1"/> 
+<ctrGbrComponents description="Integration-Event Grid Topics-Asset" id="CP-10744" infraType="Integration" name="Event_Grid_Topics" version="0.0.1"/> 
+<ctrGbrComponents description="Integration-Relays-Asset" id="CP-10745" infraType="Integration" name="Relays" version="0.0.1"/> 
+<ctrGbrComponents description="Integration-Software As A Service-Asset" id="CP-10746" infraType="Integration" name="Software_As_A_Service" version="0.0.1"/> 
+<ctrGbrComponents description="Integration-Event Grid Domains-Asset" id="CP-10747" infraType="Integration" name="Event_Grid_Domains" version="0.0.1"/> 
+<ctrGbrComponents description="Integration-Azure Data Catalog-Asset" id="CP-10748" infraType="Integration" name="Azure_Data_Catalog" version="0.0.1"/> 
+<ctrGbrComponents description="Integration-Integration Accounts-Asset" id="CP-10749" infraType="Integration" name="Integration_Accounts" version="0.0.1"/> 
+<ctrGbrComponents description="Integration-Event Grid Subscriptions-Asset" id="CP-10750" infraType="Integration" name="Event_Grid_Subscriptions" version="0.0.1"/> 
+<ctrGbrComponents description="Internet of Things-Digital Twins-Asset" id="CP-10751" infraType="Internet of Things" name="Digital_Twins" version="0.0.1"/> 
+<ctrGbrComponents description="Intune-Device Security Apple-Asset" id="CP-10752" infraType="Intune" name="Device_Security_Apple" version="0.0.1"/> 
+<ctrGbrComponents description="Intune-Device Security Google-Asset" id="CP-10753" infraType="Intune" name="Device_Security_Google" version="0.0.1"/> 
+<ctrGbrComponents description="Intune-Device Security Windows-Asset" id="CP-10754" infraType="Intune" name="Device_Security_Windows" version="0.0.1"/> 
+<ctrGbrComponents description="Intune-Azure Ad Roles And Administrators-Asset" id="CP-10755" infraType="Intune" name="Azure_Ad_Roles_And_Administrators" version="0.0.1"/> 
+<ctrGbrComponents description="IoT-Event Hubs-Asset" id="CP-10756" infraType="IoT" name="Event_Hubs" version="0.0.1"/> 
+<ctrGbrComponents description="IoT-Stream Analytics Jobs-Asset" id="CP-10757" infraType="IoT" name="Stream_Analytics_Jobs" version="0.0.1"/> 
+<ctrGbrComponents description="IoT-Function Apps-Asset" id="CP-10758" infraType="IoT" name="Function_Apps" version="0.0.1"/> 
+<ctrGbrComponents description="IoT-Notification Hubs-Asset" id="CP-10759" infraType="IoT" name="Notification_Hubs" version="0.0.1"/> 
+<ctrGbrComponents description="IoT-Time Series Insights Environments-Asset" id="CP-10760" infraType="IoT" name="Time_Series_Insights_Environments" version="0.0.1"/> 
+<ctrGbrComponents description="IoT-Iot Hub-Asset" id="CP-10761" infraType="IoT" name="Iot_Hub" version="0.0.1"/> 
+<ctrGbrComponents description="IoT-Iot Central Applications-Asset" id="CP-10762" infraType="IoT" name="Iot_Central_Applications" version="0.0.1"/> 
+<ctrGbrComponents description="IoT-Azure Maps Accounts-Asset" id="CP-10763" infraType="IoT" name="Azure_Maps_Accounts" version="0.0.1"/> 
+<ctrGbrComponents description="IoT-Time Series Insights Event Sources-Asset" id="CP-10764" infraType="IoT" name="Time_Series_Insights_Event_Sources" version="0.0.1"/> 
+<ctrGbrComponents description="IoT-Logic Apps-Asset" id="CP-10765" infraType="IoT" name="Logic_Apps" version="0.0.1"/> 
+<ctrGbrComponents description="IoT-Device Provisioning Services-Asset" id="CP-10766" infraType="IoT" name="Device_Provisioning_Services" version="0.0.1"/> 
+<ctrGbrComponents description="Management + Governance-Monitor-Asset" id="CP-10767" infraType="Management + Governance" name="Monitor" version="0.0.1"/> 
+<ctrGbrComponents description="Management + Governance-Alerts-Asset" id="CP-10768" infraType="Management + Governance" name="Alerts" version="0.0.1"/> 
+<ctrGbrComponents description="Management + Governance-Advisor-Asset" id="CP-10769" infraType="Management + Governance" name="Advisor" version="0.0.1"/> 
+<ctrGbrComponents description="Management + Governance-Blueprints-Asset" id="CP-10770" infraType="Management + Governance" name="Blueprints" version="0.0.1"/> 
+<ctrGbrComponents description="Management + Governance-Activity Log-Asset" id="CP-10771" infraType="Management + Governance" name="Activity_Log" version="0.0.1"/> 
+<ctrGbrComponents description="Management + Governance-Diagnostics Settings-Asset" id="CP-10772" infraType="Management + Governance" name="Diagnostics_Settings" version="0.0.1"/> 
+<ctrGbrComponents description="Management + Governance-Log Analytics Workspaces-Asset" id="CP-10773" infraType="Management + Governance" name="Log_Analytics_Workspaces" version="0.0.1"/> 
+<ctrGbrComponents description="Management + Governance-Compliance-Asset" id="CP-10774" infraType="Management + Governance" name="Compliance" version="0.0.1"/> 
+<ctrGbrComponents description="Management + Governance-Application Insights-Asset" id="CP-10775" infraType="Management + Governance" name="Application_Insights" version="0.0.1"/> 
+<ctrGbrComponents description="Management + Governance-My Customers-Asset" id="CP-10776" infraType="Management + Governance" name="My_Customers" version="0.0.1"/> 
+<ctrGbrComponents description="Management + Governance-Recovery Services Vaults-Asset" id="CP-10777" infraType="Management + Governance" name="Recovery_Services_Vaults" version="0.0.1"/> 
+<ctrGbrComponents description="Management + Governance-Metrics-Asset" id="CP-10778" infraType="Management + Governance" name="Metrics" version="0.0.1"/> 
+<ctrGbrComponents description="Management + Governance-Solutions-Asset" id="CP-10779" infraType="Management + Governance" name="Solutions" version="0.0.1"/> 
+<ctrGbrComponents description="Management + Governance-Automation Accounts-Asset" id="CP-10780" infraType="Management + Governance" name="Automation_Accounts" version="0.0.1"/> 
+<ctrGbrComponents description="Management + Governance-Operation Log (classic)-Asset" id="CP-10781" infraType="Management + Governance" name="Operation_Log_(classic)" version="0.0.1"/> 
+<ctrGbrComponents description="Management + Governance-Service Providers-Asset" id="CP-10782" infraType="Management + Governance" name="Service_Providers" version="0.0.1"/> 
+<ctrGbrComponents description="Management + Governance-Education-Asset" id="CP-10783" infraType="Management + Governance" name="Education" version="0.0.1"/> 
+<ctrGbrComponents description="Management + Governance-Azure Lighthouse-Asset" id="CP-10784" infraType="Management + Governance" name="Azure_Lighthouse" version="0.0.1"/> 
+<ctrGbrComponents description="Management + Governance-Azure Arc-Asset" id="CP-10785" infraType="Management + Governance" name="Azure_Arc" version="0.0.1"/> 
+<ctrGbrComponents description="Management + Governance-User Privacy-Asset" id="CP-10786" infraType="Management + Governance" name="User_Privacy" version="0.0.1"/> 
+<ctrGbrComponents description="Management + Governance-Managed Applications Center-Asset" id="CP-10787" infraType="Management + Governance" name="Managed_Applications_Center" version="0.0.1"/> 
+<ctrGbrComponents description="Management + Governance-Policy-Asset" id="CP-10788" infraType="Management + Governance" name="Policy" version="0.0.1"/> 
+<ctrGbrComponents description="Management + Governance-Resource Graph Explorer-Asset" id="CP-10789" infraType="Management + Governance" name="Resource_Graph_Explorer" version="0.0.1"/> 
+<ctrGbrComponents description="Management + Governance-Machinesazurearc-Asset" id="CP-10790" infraType="Management + Governance" name="Machinesazurearc" version="0.0.1"/> 
+<ctrGbrComponents description="Migrate-Recovery Services Vaults-Asset" id="CP-10791" infraType="Migrate" name="Recovery_Services_Vaults" version="0.0.1"/> 
+<ctrGbrComponents description="Migrate-Data Box-Asset" id="CP-10792" infraType="Migrate" name="Data_Box" version="0.0.1"/> 
+<ctrGbrComponents description="Migrate-Data Box Edge-Asset" id="CP-10793" infraType="Migrate" name="Data_Box_Edge" version="0.0.1"/> 
+<ctrGbrComponents description="Migrate-Azure Migrate-Asset" id="CP-10794" infraType="Migrate" name="Azure_Migrate" version="0.0.1"/> 
+<ctrGbrComponents description="Mixed Reality-Remote Rendering-Asset" id="CP-10795" infraType="Mixed Reality" name="Remote_Rendering" version="0.0.1"/> 
+<ctrGbrComponents description="Monitor-Sap Azure Monitor-Asset" id="CP-10796" infraType="Monitor" name="Sap_Azure_Monitor" version="0.0.1"/> 
+<ctrGbrComponents description="Networking-Cdn Profiles-Asset" id="CP-10797" infraType="Networking" name="Cdn_Profiles" version="0.0.1"/> 
+<ctrGbrComponents description="Networking-Azure Firewall Manager-Asset" id="CP-10798" infraType="Networking" name="Azure_Firewall_Manager" version="0.0.1"/> 
+<ctrGbrComponents description="Networking-Private Link-Asset" id="CP-10799" infraType="Networking" name="Private_Link" version="0.0.1"/> 
+<ctrGbrComponents description="Networking-Ip Groups-Asset" id="CP-10800" infraType="Networking" name="Ip_Groups" version="0.0.1"/> 
+<ctrGbrComponents description="Networking-Private Link Service-Asset" id="CP-10801" infraType="Networking" name="Private_Link_Service" version="0.0.1"/> 
+<ctrGbrComponents description="Networking-Virtual Networks-Asset" id="CP-10802" infraType="Networking" name="Virtual_Networks" version="0.0.1"/> 
+<ctrGbrComponents description="Networking-Load Balancers-Asset" id="CP-10803" infraType="Networking" name="Load_Balancers" version="0.0.1"/> 
+<ctrGbrComponents description="Networking-Virtual Network Gateways-Asset" id="CP-10804" infraType="Networking" name="Virtual_Network_Gateways" version="0.0.1"/> 
+<ctrGbrComponents description="Networking-Dns Zones-Asset" id="CP-10805" infraType="Networking" name="Dns_Zones" version="0.0.1"/> 
+<ctrGbrComponents description="Networking-Traffic Manager Profiles-Asset" id="CP-10806" infraType="Networking" name="Traffic_Manager_Profiles" version="0.0.1"/> 
+<ctrGbrComponents description="Networking-Network Watcher-Asset" id="CP-10807" infraType="Networking" name="Network_Watcher" version="0.0.1"/> 
+<ctrGbrComponents description="Networking-Network Security Groups-Asset" id="CP-10808" infraType="Networking" name="Network_Security_Groups" version="0.0.1"/> 
+<ctrGbrComponents description="Networking-Public Ip Addresses (classic)-Asset" id="CP-10809" infraType="Networking" name="Public_Ip_Addresses_(classic)" version="0.0.1"/> 
+<ctrGbrComponents description="Networking-Public Ip Addresses-Asset" id="CP-10810" infraType="Networking" name="Public_Ip_Addresses" version="0.0.1"/> 
+<ctrGbrComponents description="Networking-Route Filters-Asset" id="CP-10811" infraType="Networking" name="Route_Filters" version="0.0.1"/> 
+<ctrGbrComponents description="Networking-Ddos Protection Plans-Asset" id="CP-10812" infraType="Networking" name="Ddos_Protection_Plans" version="0.0.1"/> 
+<ctrGbrComponents description="Networking-Front Doors-Asset" id="CP-10813" infraType="Networking" name="Front_Doors" version="0.0.1"/> 
+<ctrGbrComponents description="Networking-Virtual Networks (classic)-Asset" id="CP-10814" infraType="Networking" name="Virtual_Networks_(classic)" version="0.0.1"/> 
+<ctrGbrComponents description="Networking-Application Gateways-Asset" id="CP-10815" infraType="Networking" name="Application_Gateways" version="0.0.1"/> 
+<ctrGbrComponents description="Networking-Expressroute Circuits-Asset" id="CP-10816" infraType="Networking" name="Expressroute_Circuits" version="0.0.1"/> 
+<ctrGbrComponents description="Networking-Network Interfaces-Asset" id="CP-10817" infraType="Networking" name="Network_Interfaces" version="0.0.1"/> 
+<ctrGbrComponents description="Networking-Connections-Asset" id="CP-10818" infraType="Networking" name="Connections" version="0.0.1"/> 
+<ctrGbrComponents description="Networking-Route Tables-Asset" id="CP-10819" infraType="Networking" name="Route_Tables" version="0.0.1"/> 
+<ctrGbrComponents description="Networking-Firewalls-Asset" id="CP-10820" infraType="Networking" name="Firewalls" version="0.0.1"/> 
+<ctrGbrComponents description="Networking-Service Endpoint Policies-Asset" id="CP-10821" infraType="Networking" name="Service_Endpoint_Policies" version="0.0.1"/> 
+<ctrGbrComponents description="Networking-Nat-Asset" id="CP-10822" infraType="Networking" name="Nat" version="0.0.1"/> 
+<ctrGbrComponents description="Networking-Virtual Wans-Asset" id="CP-10823" infraType="Networking" name="Virtual_Wans" version="0.0.1"/> 
+<ctrGbrComponents description="Networking-Web Application Firewall Policies(waf)-Asset" id="CP-10824" infraType="Networking" name="Web_Application_Firewall_Policies(waf)" version="0.0.1"/> 
+<ctrGbrComponents description="Networking-Proximity Placement Groups-Asset" id="CP-10825" infraType="Networking" name="Proximity_Placement_Groups" version="0.0.1"/> 
+<ctrGbrComponents description="Networking-Reserved Ip Addresses (classic)-Asset" id="CP-10826" infraType="Networking" name="Reserved_Ip_Addresses_(classic)" version="0.0.1"/> 
+<ctrGbrComponents description="Networking-Public Ip Prefixes-Asset" id="CP-10827" infraType="Networking" name="Public_Ip_Prefixes" version="0.0.1"/> 
+<ctrGbrComponents description="Other-Windows Virtual Desktop-Asset" id="CP-10828" infraType="Other" name="Windows_Virtual_Desktop" version="0.0.1"/> 
+<ctrGbrComponents description="Other-Detonation-Asset" id="CP-10829" infraType="Other" name="Detonation" version="0.0.1"/> 
+<ctrGbrComponents description="Other-Internet Analyzer Profiles-Asset" id="CP-10830" infraType="Other" name="Internet_Analyzer_Profiles" version="0.0.1"/> 
+<ctrGbrComponents description="Other-Universal Print-Asset" id="CP-10831" infraType="Other" name="Universal_Print" version="0.0.1"/> 
+<ctrGbrComponents description="Other-Peering Service-Asset" id="CP-10832" infraType="Other" name="Peering_Service" version="0.0.1"/> 
+<ctrGbrComponents description="Other-Instance Pools-Asset" id="CP-10833" infraType="Other" name="Instance_Pools" version="0.0.1"/> 
+<ctrGbrComponents description="Preview-Azure Cloud Shell-Asset" id="CP-10834" infraType="Preview" name="Azure_Cloud_Shell" version="0.0.1"/> 
+<ctrGbrComponents description="Preview-Static Apps-Asset" id="CP-10835" infraType="Preview" name="Static_Apps" version="0.0.1"/> 
+<ctrGbrComponents description="Preview-Azure Workbooks-Asset" id="CP-10836" infraType="Preview" name="Azure_Workbooks" version="0.0.1"/> 
+<ctrGbrComponents description="Preview-Private Link Hub-Asset" id="CP-10837" infraType="Preview" name="Private_Link_Hub" version="0.0.1"/> 
+<ctrGbrComponents description="Preview-Iot Edge-Asset" id="CP-10838" infraType="Preview" name="Iot_Edge" version="0.0.1"/> 
+<ctrGbrComponents description="Preview-Azure Sphere-Asset" id="CP-10839" infraType="Preview" name="Azure_Sphere" version="0.0.1"/> 
+<ctrGbrComponents description="Preview-Time Series Data Sets-Asset" id="CP-10840" infraType="Preview" name="Time_Series_Data_Sets" version="0.0.1"/> 
+<ctrGbrComponents description="Preview-Rtos-Asset" id="CP-10841" infraType="Preview" name="Rtos" version="0.0.1"/> 
+<ctrGbrComponents description="Preview-Web Environment-Asset" id="CP-10842" infraType="Preview" name="Web_Environment" version="0.0.1"/> 
+<ctrGbrComponents description="Security-Conditional Access-Asset" id="CP-10843" infraType="Security" name="Conditional_Access" version="0.0.1"/> 
+<ctrGbrComponents description="Security-Security Center-Asset" id="CP-10844" infraType="Security" name="Security_Center" version="0.0.1"/> 
+<ctrGbrComponents description="Security-Application Security Groups-Asset" id="CP-10845" infraType="Security" name="Application_Security_Groups" version="0.0.1"/> 
+<ctrGbrComponents description="Security-Key Vaults-Asset" id="CP-10846" infraType="Security" name="Key_Vaults" version="0.0.1"/> 
+<ctrGbrComponents description="Security-Azure Sentinel-Asset" id="CP-10847" infraType="Security" name="Azure_Sentinel" version="0.0.1"/> 
+<ctrGbrComponents description="Security-Extendedsecurityupdates-Asset" id="CP-10848" infraType="Security" name="Extendedsecurityupdates" version="0.0.1"/> 
+<ctrGbrComponents description="Storage-Recovery Services Vaults-Asset" id="CP-10849" infraType="Storage" name="Recovery_Services_Vaults" version="0.0.1"/> 
+<ctrGbrComponents description="Storage-Azure Stack Edge-Asset" id="CP-10850" infraType="Storage" name="Azure_Stack_Edge" version="0.0.1"/> 
+<ctrGbrComponents description="Storage-Azure Hcp Cache-Asset" id="CP-10851" infraType="Storage" name="Azure_Hcp_Cache" version="0.0.1"/> 
+<ctrGbrComponents description="Storage-Storage Accounts-Asset" id="CP-10852" infraType="Storage" name="Storage_Accounts" version="0.0.1"/> 
+<ctrGbrComponents description="Storage-Storage Accounts (classic)-Asset" id="CP-10853" infraType="Storage" name="Storage_Accounts_(classic)" version="0.0.1"/> 
+<ctrGbrComponents description="Storage-Storsimple Device Managers-Asset" id="CP-10854" infraType="Storage" name="Storsimple_Device_Managers" version="0.0.1"/> 
+<ctrGbrComponents description="Storage-Data Lake Storage Gen1-Asset" id="CP-10855" infraType="Storage" name="Data_Lake_Storage_Gen1" version="0.0.1"/> 
+<ctrGbrComponents description="Storage-Storsimple Data Managers-Asset" id="CP-10856" infraType="Storage" name="Storsimple_Data_Managers" version="0.0.1"/> 
+<ctrGbrComponents description="Storage-Storage Sync Services-Asset" id="CP-10857" infraType="Storage" name="Storage_Sync_Services" version="0.0.1"/> 
+<ctrGbrComponents description="Storage-Data Box-Asset" id="CP-10858" infraType="Storage" name="Data_Box" version="0.0.1"/> 
+<ctrGbrComponents description="Storage-Data Box Edge-Asset" id="CP-10859" infraType="Storage" name="Data_Box_Edge" version="0.0.1"/> 
+<ctrGbrComponents description="Storage-Azure Netapp Files-Asset" id="CP-10860" infraType="Storage" name="Azure_Netapp_Files" version="0.0.1"/> 
+<ctrGbrComponents description="Storage-Data Share Invitations-Asset" id="CP-10861" infraType="Storage" name="Data_Share_Invitations" version="0.0.1"/> 
+<ctrGbrComponents description="Storage-Data Shares-Asset" id="CP-10862" infraType="Storage" name="Data_Shares" version="0.0.1"/> 
+<ctrGbrComponents description="Storage-Import Export Jobs-Asset" id="CP-10863" infraType="Storage" name="Import_Export_Jobs" version="0.0.1"/> 
+<ctrGbrComponents description="Web-Notification Hub Namespaces-Asset" id="CP-10864" infraType="Web" name="Notification_Hub_Namespaces" version="0.0.1"/> 
+<ctrGbrComponents description="Web-Azure Media Service-Asset" id="CP-10865" infraType="Web" name="Azure_Media_Service" version="0.0.1"/> 
